@@ -1,0 +1,2 @@
+# randomartikel
+Safelink random artikel
